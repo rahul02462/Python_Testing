@@ -4,7 +4,7 @@ print("2. Substraction")
 print("3 Multi")
 print("4 Divide")
 print("5 Module")
-
+print("6 Exit")
 operation = input("enter your choice \n")
 if operation == '1':
     num1 = input("enter first number :")
